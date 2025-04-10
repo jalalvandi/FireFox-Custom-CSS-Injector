@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Custom CSS Injector",
-    "version": "1.1",
+    "version": "1.1.0",
     "description": "A Firefox extension to inject custom CSS into any website.",
     "author": "Sina Jalalvandi",
     "homepage_url": "https://sinajalalvandi.ir",
@@ -43,10 +43,9 @@
         "96": "icons/icon-96.png"
     },
     "browser_specific_settings": {
-  "gecko": {
-    "id": "fccssi@sinajalalvandi.ir",
-    "strict_min_version": "58.0"
-  }
-}
-
+        "gecko": {
+            "id": "fccssi@sinajalalvandi.ir",
+            "strict_min_version": "58.0"
+        }
+    }
 }

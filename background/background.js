@@ -1,3 +1,15 @@
+// ~/background/background.js
+//
+//  * Copyright (C) Mohammad (Sina) Jalalvandi 2024-2025 <jalalvandi.sina@gmail.com>
+//  * Package : Custom CSS Injector
+//  * License : Apache-2.0
+//  * Version : 1.1.0
+//  * URL     : https://github.com/jalalvandi/custom-css-injector
+//  * Sign: Custom CSS Injector-20250411-34b291c67838-27ee80d95aac2ee4c6d6cad04a14338d
+//
+// this file contains the background script for the extension.
+
+
 /**
  * Listens for updates to tabs (like loading a new page or navigating).
  * When a page finishes loading, it checks if there's stored CSS for that domain

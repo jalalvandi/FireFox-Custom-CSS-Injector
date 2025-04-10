@@ -52,7 +52,11 @@ Since this is custom code, you need to load it as a temporary add-on:
 Encounter a bug? Click "Report Issue" in the popup and send the URL along with a description to jalalvandi.sina@gmail.com.
 
 ## License
-This project is open-source under the MIT License (LICENSE). Feel free to use, modify, and distribute it.
+This project is open-source under the Apache-2.0  License ([License](LICENSE)).
 
 ## Credits
 Developed by Sina Jalalvandi (mailto:jalalvandi.sina@gmail.com). Contributions and feedback are welcome!
+```
+Vaersion: 1.1.0
+Sign: Custom CSS Injector-20250411-34b291c67838-27ee80d95aac2ee4c6d6cad04a14338d
+```

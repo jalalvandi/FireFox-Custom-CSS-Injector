@@ -1,3 +1,16 @@
+// ~/popup/popup.js
+//
+//  * Copyright (C) Mohammad (Sina) Jalalvandi 2024-2025 <jalalvandi.sina@gmail.com>
+//  * Package : Custom CSS Injector
+//  * License : Apache-2.0
+//  * Version : 1.1.0
+//  * URL     : https://github.com/jalalvandi/custom-css-injector
+//  * Sign: Custom CSS Injector-20250411-34b291c67838-27ee80d95aac2ee4c6d6cad04a14338d
+//
+// this file containts the popup script for the extension
+
+
+
 // Get references to the HTML elements
 const cssInput = document.getElementById('css-input');
 const saveButton = document.getElementById('save-button');
